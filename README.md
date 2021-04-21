@@ -27,3 +27,5 @@ Voici les infos de configuration de ce serveur :
   * `elections2007`
   * `large_db`
   * `large_db_with_index`
+
+Test
